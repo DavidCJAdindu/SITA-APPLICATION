@@ -46,7 +46,6 @@
 
 section{
     padding: 0 10%;
-    padding-top: 10%;
     color: white;
     height: 100vh;
 }
@@ -60,7 +59,7 @@ section h4{
 }
 section h5{
     font-size: 28px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
 }
 
 #about h1{
