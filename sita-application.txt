@@ -4,5 +4,6 @@ Application Form
 
 > Portfolio 
 - Java Projects 
- - 
+ - xs and os ✅
+ - pizza delivery app (swing application) ✅
 - Travel Project 
