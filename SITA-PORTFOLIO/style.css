@@ -53,7 +53,6 @@ section{
 }
 
 
-
 section h4,h1, h6{
     text-transform: uppercase;    
 }
@@ -91,31 +90,8 @@ section h5{
     color: #fff;
 }
 
-@media screen and (max-width:1064px) {
-    .menubar-mobile{
-        display: block;
-    }
-
-    .menubar-desktop{
-        display: none;
-    }
-    .main-content{
-        padding: 0;
-        padding-bottom: 10px;
-    }
-
-    #projects .proj-content {
-        width: 100%;
-    }
-
-    section{
-        height: 100%;
-    }
-}
-
-
 #projects .proj-content .card {
-    width: calc(25% - 20px);
+    width: calc(33% - 20px);
     background: #222;
     text-align: center;
     border-radius: 6px;
@@ -171,3 +147,31 @@ section h5{
     color: #fff;
     border: 2px solid #fff;
 }
+
+
+
+
+@media screen and (max-width:1064px) {
+    .menubar-mobile{
+        display: block;
+    }
+
+    .menubar-desktop{
+        display: none;
+    }
+    .main-content{
+        padding: 0;
+        padding-bottom: 10px;
+    }
+
+    #projects .proj-content .card {
+        width: 100%;
+        margin: 20px 0px;
+    }
+
+    section{
+        height: 100%;
+    }
+}
+
+
