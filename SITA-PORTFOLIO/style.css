@@ -1,3 +1,5 @@
+
+
 .menubar-mobile{
     position: fixed;
     top: 0;
@@ -45,10 +47,13 @@
 }
 
 section{
-    padding: 0 10%;
+    padding: 2% 10%;
     color: white;
     height: 100vh;
 }
+
+
+
 section h4,h1, h6{
     text-transform: uppercase;    
 }
@@ -65,7 +70,12 @@ section h5{
 #about h1{
     font-size: 72px;
     color: coral;
-    padding-bottom: 10px;
+    margin-top: 50px;
+}
+
+#projects h4{
+    color: coral;
+    margin-top: 100px;
 }
 
 #about .icons{

@@ -1,9 +1,9 @@
 Application Form
 
-> Resume, References and Cover Letter 
+> Resume, References  and Cover Letter 
 
-> Portfolio 
-- Java Projects 
+> Portfolio
+- Java Projects ✅
  - xs and os ✅
  - pizza delivery app (swing application) ✅
 - Travel Project 

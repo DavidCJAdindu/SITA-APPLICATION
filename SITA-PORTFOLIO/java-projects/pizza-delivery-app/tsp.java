@@ -1,5 +1,3 @@
-//19404086
-//Abderahman Haouit
 
 package Package;
 
