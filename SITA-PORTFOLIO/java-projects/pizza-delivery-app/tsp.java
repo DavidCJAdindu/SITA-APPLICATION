@@ -22,7 +22,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JButton;
 
-public class tsp extends JFrame {
+public class Tsp extends JFrame {
 
 	private JPanel contentPane;
 	private JTextArea input;
