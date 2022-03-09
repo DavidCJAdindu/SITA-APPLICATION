@@ -1,0 +1,5 @@
+Because SITA is a company in the airline industry, I wanted to showcase my love for traveling and experiencing new countries in a project. What better way than to create a photo gallery website of my favorite pictures from the countries I traveled to in the past 6 months! I also created a Basic Server in Java to serve my index.html file locally while building this project.
+
+I had a lot of fun building this project and I hope it inspires other developers out there!
+
+This project can be found at: https://davidcjadindu.github.io/travel-gallery-project/
